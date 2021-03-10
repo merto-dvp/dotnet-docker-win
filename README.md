@@ -2,11 +2,17 @@
 
 Dokümantasyon
 Create => Main Project  .NET 5.0 (Proje yeni kuruluyorsa Docker support disabled)
+
 Solution'a; 
+
 Create => dev_v1 (Same Configure)
+
 Create => dev_v2 (Same Configure)
+
 Create => dev_v3 (Same Configure)
+
 Create => dev_v4 (Same Configure)
+
 dev_v1’in içerisine Dockerfile oluşturuldu otomatik olarak.
 1. Ana dizinde Common Klasörü oluşturuldu.
 - Docker'a ait dosyalar common'a taşındı.
